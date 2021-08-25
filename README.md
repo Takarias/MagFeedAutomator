@@ -1,5 +1,3 @@
-# MagFeedAutomator
-
 MagFeedAutomator by Takarias
 Version 1.0 - August 24th, 2021
 
@@ -48,6 +46,16 @@ Before you launch the tool, ensure that:
 Once situated, launch the tool and follow the prompts. If you made an error in
 your selections or need to exit the tool for any reason, find the icon in your
 system tray, right click it, and select "Exit."
+
+Once set up, the tool will minimize to the system tray. You are free to use your
+computer for almost anything you want. Exceptions include anything that will
+cause PSO to crash (and if you play PSO, you're familiar with this lol), and
+specific programs that somehow block focus switching. I have only found Chatty
+(Twitch chat client) to have caused this error so far, but I can't test
+everything. The tool will interrupt whatever you are doing every 3.5 minutes to
+initiate a new feed cycle.
+
+Thank you for using MagTestAutomator!
 
 
 --------------------
