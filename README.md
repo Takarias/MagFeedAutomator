@@ -31,6 +31,8 @@ but since it works with a very quirky old game, there are some caveats to keep
 in mind when using it.
 
 Before you launch the tool, ensure that:
+- PSO CANNOT be running under a compatibility mode for this took to work. If
+	being run in a compatibility mode, PSO will not accept inpits from this tool!
 - In PSO, under Menu > Options > Function Key Setting, the function keys must be
 	set to "Menu Shortcuts"
 - You are on the character you intend to use for this stretch of feeding.
