@@ -34,7 +34,7 @@ in mind when using it.
 Before you launch the tool, ensure that:
 - In PSO, under Menu > Options > Function Key Setting, the function keys must be
 	set to "Menu Shortcuts"
-- You are on the character you intend to use for this stretch of feeding/
+- You are on the character you intend to use for this stretch of feeding.
 	Note: For the purposes of this readme, a 'feed' is defined as a stretch of
 		feeding a single item, such as 363 Dimates
 - Your inventory contains nothing but the Mag you intend to feed and enough
