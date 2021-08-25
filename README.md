@@ -9,7 +9,7 @@ Version 1.0 - August 24th, 2021
 QUICK START
 --------------------
 
-1. Grab MagFeedAutomator.exe from here
+1. Grab MagFeedAutomator.exe from [here](/releases/latest)
 2. Run MagFeedAutomator.exe
 3. Follow setup prompts
 4. Watch cat videos while your Mag gets fed
